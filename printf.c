@@ -2,7 +2,7 @@
 
 int main(void){
 
-  char note[] = 'hello';
+  char note[] = hello;
   printf("test %s",note)
 
   return 0;
